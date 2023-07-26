@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+td{
+    height: 150px;
+    width: 150px;
+    border: 2px solid white;
+    color: yellow;
+    text-align: center;
+    font-size: 40px;
+}
+table{
+    margin-left: 35%;
+    margin-top: 5%;
+}
+h1{
+    margin: 20px 0px;
+    color: aliceblue;
+    font-size: 60px;
+}
+button{
+    margin-left: 48%;
+    margin-top: 4%;
+    
+}
